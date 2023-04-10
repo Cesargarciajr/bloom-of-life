@@ -21,7 +21,7 @@ body {
 #menu {
     text-align: center;
     letter-spacing: 4px;
-    margin: 15px 0 3px 0;
+    margin: 15px 0 4px 0;
     background-color: #9EAB97;
     font-size: 25px;
     font-family: 'Gamja Flower', cursive;
@@ -35,4 +35,13 @@ body {
 #cover-picture img {
     height: 600px;
     width: 100%;
+}
+
+.cover-text {
+    width: 300px;
+    height: 200px;
+    background-color: #E1F4D7;
+    position: absolute;
+    top: 50%;
+    
 }
