@@ -1,9 +1,12 @@
+/*Importing fonts from google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Indie+Flower&family=Playfair+Display+SC&family=Send+Flowers&display=swap');
 
+/*Defining background color*/
 body {
     background-color: #E1F4D7;
 }
 
+/* Adding style to the header*/
 #title h1 {
     text-align: center;
     font-family: 'Send Flowers', cursive;
@@ -23,6 +26,7 @@ body {
     margin: 0 auto;
 }
 
+/* Adding style to the navigation menu*/
 #menu {
     text-align: center;
     letter-spacing: 4px;
@@ -42,6 +46,7 @@ body {
     border-bottom: 1px solid white;
 }
 
+/* Adding style to the Image*/
 #cover-outer {
     height: 600px;
     width: 100%;
@@ -54,6 +59,7 @@ body {
     width: 100%;
 }
 
+/* Defining area for text over the image*/
 #cover-text h2{
     text-align: center;
     font-size: 20px;
@@ -78,5 +84,30 @@ body {
     bottom: 30px;
     right: 30px;
     position: absolute;
-    back
 }
+
+/* Adding style to te organized by section*/
+#organized-by {
+    float: left;
+    height: 250px;
+    width: 250px;
+    padding-left: 250px;
+    padding-top: 80px;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#profile-picture {
+    height: 100%;
+    border-radius: 50%;
+}
+
