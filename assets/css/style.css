@@ -1,11 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+
 #cover-picure {
     background: url('../images/Pregnant-blooming.jpg');
     width: 100%;
     height: 700px;
 }
 
-h1, h5 {
+#header h1 {
     text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 h1 {
