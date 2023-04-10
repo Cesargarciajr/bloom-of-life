@@ -14,12 +14,15 @@ body {
 #title h5 {
     text-align: center;
     font-family: 'Indie Flower', cursive;
-    font-size: 45px ;
+    font-size: 18px ;
+    margin: 0 auto;
 }
 
 #menu {
     text-align: center;
     letter-spacing: 4px;
+    margin: 15px auto;
+    
 }
 
 #menu a {
