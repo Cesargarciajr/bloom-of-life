@@ -1,59 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Send+Flowers&display=swap');
 
-#cover-picure {
-    background: url('../images/Pregnant-blooming.jpg');
-    width: 100%;
-    height: 700px;
+body {
+    background-color: #E1F4D7;
 }
 
-#header h1 {
+#title h1{
     text-align: center;
-    font-family: 'Lato', sans-serif;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Send Flowers', cursive;
+    font-size: 56px;
+    margin: 30px 0 0 0;
 }
 
-h1 {
-    margin-top: 20px;
-    letter-spacing: 4px;
-    margin-bottom: 0px;
-    font-family: Segoe UI;
+#title h5 {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 45px ;
 }
-
-h5 {
-    margin-top:  5px;
-    font-family: Segoe UI;
-}
-
 
 #menu {
     text-align: center;
-    background-color: bisque;
     letter-spacing: 4px;
-    font-family: Segoe UI;
 }
 
 #menu a {
     margin-left: 20px;
 }
 
-#profile-picture {
-    width: 300px;
-    height: 300px;
-    padding: 30px;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    float:right;
-    margin: 45px 250px 0 0;
-}
-
-#facilitated h1{
-    float: left;
-    margin: 145px 250px 0 250px;
-}
-
-#facilitated p {
-    float: left;
-    margin: 30px 100px 0 250px;
+#cover-picture img {
+    height: 600px;
+    width: 100%;
 }
