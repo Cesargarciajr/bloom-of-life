@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Send+Flowers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Indie+Flower&family=Send+Flowers&display=swap');
 
 body {
     background-color: #E1F4D7;
@@ -21,8 +21,11 @@ body {
 #menu {
     text-align: center;
     letter-spacing: 4px;
-    margin: 15px auto;
-    
+    margin: 15px 0 3px 0;
+    background-color: #9EAB97;
+    font-size: 25px;
+    font-family: 'Gamja Flower', cursive;
+
 }
 
 #menu a {
