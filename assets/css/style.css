@@ -29,7 +29,6 @@ body {
 #menu a:hover {
     color:#f1f2b9 ;
     text-shadow: 0 0 10px black;
-
 }
 
 #title h5 {
@@ -37,6 +36,7 @@ body {
     font-family: 'Indie Flower', cursive;
     font-size: 18px ;
     margin: 0 auto;
+    color:#9EAB97;
 }
 
 /* Adding style to the navigation menu*/
@@ -45,8 +45,8 @@ body {
     letter-spacing: 4px;
     margin: 15px 0 4px 0;
     background-color: #9EAB97;
-    font-size: 25px;
-    font-family: 'Gamja Flower', cursive;
+    font-size: 18px;
+    font-family: sans-serif ;
 }
 
 #menu a {
@@ -100,36 +100,58 @@ body {
     height: 450px;
     width: 100%;
     background-color: #f1f2b9;
+    display: flex;
+    position: relative;
 }
 
 #organized-by {
     height: 300px;
-    width: 38%;
-    padding-left: 180px;
-    padding-top: 120px;
+    width: 500px;
     text-align: center;
-    float: left;
+    border-radius: 5%;
+    top: 90px;
+    left: 20%;
+    position: absolute;
+    box-shadow: 0 0 10px #9EAB97;
+    background-color: #E1F4D7;
 }
-
-#profile-picture-outer {
-    height: 300px;
-    width: 38%;
-    padding-right: 0px;
-    padding-top: 180px;
-    padding: 90px;
-    float: right;
-    text-align: center;
-}
-
 
 #profile-picture {
-      height: 250px;
+      height: 325px;
       border-radius: 50%;
-      background-color: red;
+      box-shadow: 0 0 10px #9EAB97;
+      position: absolute;
+      left: 60%;
+      top: 80px
+}
+
+#organized-by h3 {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color:#9EAB97;
+    text-shadow: 0 0 10px white;
+}
+
+#organized-by h1 {
+    font-family: 'Send Flowers', cursive;
+    font-size: 46px;
+    color: #9EAB97;
+    text-shadow: 0 0 10px white;
+}
+
+#organized-by p {
+    color:#9EAB97;
+    padding: 0 40px 0 40px;
+    text-align: left;
+}
+
+.gallery img {
+    height: 250px;
+    width: 20%;
+}
 
 #time-table-container {
     width: 100%;
     height: 53;
-    padding: 380px;
-  /*  background-color:b blue */
+
 }
