@@ -22,7 +22,7 @@ body {
 }
 
 #title a:hover {
-    color:#9EAB97 ;
+    color: white ;
     text-shadow: 0 0 10px #f1f2b9;
 }
 
@@ -46,7 +46,7 @@ body {
     margin: 15px 0 4px 0;
     background-color: #9EAB97;
     font-size: 18px;
-    font-family: sans-serif ;
+    color: white;
 }
 
 #menu a {
@@ -72,17 +72,16 @@ body {
 #cover-text h2{
     text-align: center;
     font-size: 20px;
-    font-family: 'Playfair Display SC', serif;
-    border-bottom: 1px solid white;
-    color: white;
-    text-shadow: 0 0 10px black;
-
+    border-bottom: 1px solid #7d8778;
+    color: #7d8778;
+    text-shadow: 0 0 10px white;
 }
+
 #cover-text {
     text-align: left;
     font-size: 16px;
-    color: white;
-    text-shadow: 0 0 10px black;
+    color: #7d8778;
+    text-shadow: 0 0 10px white;
     font-family: sans-serif;
     width: 300px;
     height: 200px;
