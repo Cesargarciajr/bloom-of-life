@@ -12,7 +12,7 @@ body {
     font-family: 'Send Flowers', cursive;
     font-size: 56px;
     margin: 30px 0 0 0;
-    color:#9EAB97;
+    color: #6F7869;
     text-shadow: 0 0 10px whitesmoke;
 }
 
@@ -22,13 +22,13 @@ body {
 }
 
 #title a:hover {
-    color: white ;
-    text-shadow: 0 0 10px #f1f2b9;
+    color:#f1f2b9;
+    text-shadow: 0 0 10px #6F7869;
 }
 
 #menu a:hover {
     color:#f1f2b9 ;
-    text-shadow: 0 0 10px black;
+    text-shadow: 0 0 10px white;
 }
 
 #title h5 {
@@ -36,17 +36,21 @@ body {
     font-family: 'Indie Flower', cursive;
     font-size: 18px ;
     margin: 0 auto;
-    color:#9EAB97;
+    color: #6F7869;
 }
 
 /* Adding style to the navigation menu*/
 #menu {
     text-align: center;
-    letter-spacing: 4px;
+    /*letter-spacing: 4px;*/
     margin: 15px 0 4px 0;
-    background-color: #9EAB97;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #6F7869;
     font-size: 18px;
     color: white;
+    font-family: sans-serif;
+    
 }
 
 #menu a {
@@ -72,15 +76,15 @@ body {
 #cover-text h2{
     text-align: center;
     font-size: 20px;
-    border-bottom: 1px solid #7d8778;
-    color: #7d8778;
+    border-bottom: 1px solid #6F7869;
+    color: #6F7869;
     text-shadow: 0 0 10px white;
 }
 
 #cover-text {
     text-align: left;
     font-size: 16px;
-    color: #7d8778;
+    color: #6F7869;
     text-shadow: 0 0 10px white;
     font-family: sans-serif;
     width: 300px;
@@ -111,14 +115,14 @@ body {
     top: 90px;
     left: 20%;
     position: absolute;
-    box-shadow: 0 0 10px #9EAB97;
+    box-shadow: 0 0 10px #6F7869;
     background-color: #E1F4D7;
 }
 
 #profile-picture {
       height: 325px;
       border-radius: 50%;
-      box-shadow: 0 0 10px #9EAB97;
+      box-shadow: 0 0 10px #6F7869;
       position: absolute;
       left: 60%;
       top: 80px
@@ -127,19 +131,19 @@ body {
 #organized-by h3 {
     text-align: center;
     font-family: 'Indie Flower', cursive;
-    color:#9EAB97;
+    color:#6F7869;
     text-shadow: 0 0 10px white;
 }
 
 #organized-by h1 {
     font-family: 'Send Flowers', cursive;
     font-size: 46px;
-    color: #9EAB97;
+    color: #6F7869;
     text-shadow: 0 0 10px white;
 }
 
 #organized-by p {
-    color:#9EAB97;
+    color:#6F7869;
     padding: 0 40px 0 40px;
     text-align: left;
 }
@@ -163,11 +167,10 @@ body {
     position: absolute;
     font-family: 'Send Flowers', cursive;
     font-size: 56px;
-    color:#9EAB97;
+    color:#6F7869;
     text-shadow: 0 0 10px whitesmoke;
     left: 27%;
     top: 80px;
-    border-bottom: 1px solid #7d8778;
 
 }
 
@@ -181,11 +184,10 @@ body {
     position: absolute;
     font-family: 'Send Flowers', cursive;
     font-size: 56px;
-    color:#9EAB97;
+    color:#6F7869;
     text-shadow: 0 0 10px whitesmoke;
     left: 8%;
     top: 320px;
-    border-bottom: 1px solid #7d8778;
 }
 
 #img3 {
@@ -198,11 +200,10 @@ body {
     position: absolute;
     font-family: 'Send Flowers', cursive;
     font-size: 56px;
-    color:#9EAB97;
+    color:#6F7869;
     text-shadow: 0 0 10px whitesmoke;
     left: 46%;
     top: 320px;
-    border-bottom: 1px solid #7d8778;
 }
 
 #img4 {
@@ -215,11 +216,10 @@ body {
     position: absolute;
     font-family: 'Send Flowers', cursive;
     font-size: 56px;
-    color:#9EAB97;
+    color:#6F7869;
     text-shadow: 0 0 10px whitesmoke;
     left: 65%;
     top: 80px;
-    border-bottom: 1px solid #7d8778;
 }
 
 #img5 {
@@ -232,11 +232,10 @@ body {
     position: absolute;
     font-family: 'Send Flowers', cursive;
     font-size: 56px;
-    color:#9EAB97;
+    color:#6F7869;
     text-shadow: 0 0 10px whitesmoke;
     left: 85%;
     top: 320px;
-    border-bottom: 1px solid #7d8778;
 }
 
 .gallery img {
@@ -244,7 +243,7 @@ body {
     width: 19%;
     text-align: center;
     border-radius: 5%;
-    box-shadow: 0 0 10px #7d8778;
+    box-shadow: 0 0 10px #6F7869;
 }
 
 #time-table-container {
