@@ -204,10 +204,51 @@ body {
 
 /*----------------------------*/
 #time-table-container {
+    height:700px;
     width: 100%;
-    height: 53;
+    position: relative;
+    border: 1px solid;
+    background-color: #f1f2b9;
 }
 
+#time-table {
+    height: 620px;
+    width: 500px;
+    text-align: center;
+    border-radius: 5%;
+    top: 50px;
+    left: 10%;
+    position: absolute;
+    box-shadow: 0 0 10px #6F7869;
+    background-color: #E1F4D7;
+    font-family: sans-serif;
+}
+
+#time-table h1{ 
+    color: #6F7869;
+    text-align: center;
+    font-family: 'Send Flowers', cursive;
+    font-size: 42px;
+}
+
+#time-table p {
+    color: #6F7869;
+    text-align: center;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-size: 20px;
+
+}
+
+#maps {
+    height: 250px;
+    width: 450px;
+    box-shadow: 0 0 10px #6F7869;
+    border-radius: 5%;
+}
+
+
+/*Footer */
 footer {
     height: 150px;
     width: 100%;
