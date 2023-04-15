@@ -101,11 +101,19 @@ body {
 /* Adding style to the organized by section*/
 
 #second-section {
-    height: 450px;
+    height: 550px;
     width: 100%;
     background-color: #f1f2b9;
-    display: flex;
     position: relative;
+}
+
+#about-us-title {
+    text-align: center;
+    top: 80px;
+    font-family: 'Send Flowers', cursive;
+    color: #6F7869;
+    font-size: 56px;
+    border-bottom: 1px solid #6F7869;
 }
 
 #organized-by {
@@ -113,11 +121,12 @@ body {
     width: 500px;
     text-align: center;
     border-radius: 5%;
-    top: 90px;
+    top: 150px;
     left: 20%;
     position: absolute;
     box-shadow: 0 0 10px #6F7869;
     background-color: #E1F4D7;
+    font-family: sans-serif;
 }
 
 #profile-picture {
@@ -126,7 +135,7 @@ body {
       box-shadow: 0 0 10px #6F7869;
       position: absolute;
       left: 60%;
-      top: 80px
+      top: 140px
 }
 
 #organized-by h3 {
