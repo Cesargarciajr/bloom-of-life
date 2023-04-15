@@ -60,7 +60,8 @@ body {
 }
 
 #top-fixed {
-    position: sticky; top: 0;
+    position: sticky; 
+    top: 0;
     background-color: #E1F4D7;
     z-index:100;
 }
@@ -285,6 +286,19 @@ body {
 
 #join-us input:hover {
     border-color: #f1f2b9;
+    color: white;
+    text-shadow: 0 0 10px #6F7869;
+    animation-name: form-zoom;    
+    animation-fill-mode: forwards;
+}
+
+@keyframes form-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
 form {
     padding-left: 10px;
