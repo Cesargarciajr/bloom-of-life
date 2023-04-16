@@ -110,10 +110,21 @@ body {
 /* Adding style to the organized by section*/
 
 #second-section {
-    height: 550px;
+    height: auto;
     width: 100%;
     background-color: #f1f2b9;
-    position: relative;
+    padding-bottom: 1em;
+}
+
+#content-div {
+    height: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 4em;
+    padding-top: 40px;
+    padding-bottom: 80px;
 }
 
 #about-us-title {
@@ -132,7 +143,6 @@ body {
     border-radius: 5%;
     top: 150px;
     left: 20%;
-    position: absolute;
     box-shadow: 0 0 10px #6F7869;
     background-color: #E1F4D7;
     font-family: sans-serif;
@@ -142,7 +152,6 @@ body {
       height: 325px;
       border-radius: 50%;
       box-shadow: 0 0 10px #6F7869;
-      position: absolute;
       left: 60%;
       top: 140px
 }
@@ -170,10 +179,9 @@ body {
 /*Adding style to the gallery section*/
 
 #gallery-section {
-    height:700px;
+    height: 700px;
     width: 100%;
     position: relative;
-
 }
 
 #our-community-title {
@@ -217,7 +225,10 @@ body {
     position: relative;
     background-color: #f1f2b9;
     display: flex;
-
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    gap: 2em;
 }
 
 #time-table {
@@ -225,9 +236,6 @@ body {
     width: 500px;
     text-align: center;
     border-radius: 5%;
-    top: 50px;
-    left: 10%;
-    position: absolute;
     box-shadow: 0 0 10px #6F7869;
     background-color: #E1F4D7;
     font-family: sans-serif;
@@ -263,8 +271,6 @@ body {
     text-align: left;
     border-radius: 5%;
     top: 50px;
-    left: 55%;
-    position: absolute;
     box-shadow: 0 0 10px #6F7869;
     background-color: #E1F4D7;
     font-family: sans-serif;
@@ -334,6 +340,7 @@ footer {
     font-size: 25px;
     text-decoration: none;
     word-spacing: 20px;
+    border-bottom: 0;
 }
 
 footer a {
@@ -344,3 +351,5 @@ footer a {
 footer a:hover {
     color:#f1f2b9 ;
     text-shadow: 0 0 10px white;
+}
+
