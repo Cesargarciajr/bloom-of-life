@@ -179,9 +179,8 @@ body {
 /*Adding style to the gallery section*/
 
 #gallery-section {
-    height: 700px;
+    height: auto;
     width: 100%;
-    position: relative;
 }
 
 #our-community-title {
@@ -196,7 +195,6 @@ body {
 .gallery {
     display: flex;
     justify-content: space-evenly;
-    position: absolute;
     flex-wrap: wrap;
 }
 
