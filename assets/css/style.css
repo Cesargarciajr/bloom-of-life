@@ -237,6 +237,7 @@ body {
     justify-content: space-evenly;
     flex-wrap: wrap;
     padding-top: 50px;
+    padding-bottom: 50px;
     gap: 2em;
 }
 
