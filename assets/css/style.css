@@ -118,7 +118,7 @@ body {
 }
 
 #content-div {
-    height: 0 auto;
+    height: auto;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -328,7 +328,6 @@ form {
 	border-style: outset;
 	height: 50px;
 	width: 100px;
-    box-shadow: #6F7869;
     font-family: 'sans-serif', Times New Roman;
     font-weight: bold;
 }
