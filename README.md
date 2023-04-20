@@ -49,8 +49,14 @@ This website was developed to create a *Brazilian community* of new moms or preg
         ![Alt text](assets/images/about-us-section.png "About Us Section")
 
         #### Our Community Section ####
-        - This section is desgined as a gallery and some of the "pilar words" of the community so the user can relate and get a a better understanding of what to expect and what can contribute to the community.
+        - This section is desgined as a gallery and some of the "pilar words" of the community so the user can relate and get a a a better understanding of what to expect and what can contribute to the community.
 
         ![Alt text](assets/images/our-community-section.png "Our Community Section") 
+
+        #### Join Us Section ####
+        - In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction
+
+        
+        ![Alt text](assets/images/join-us-section.png "Our Community Section") 
 
 
