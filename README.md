@@ -63,7 +63,29 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
         ![Alt text](assets/images/footer.png "Footer")
 
-        
+## Responsiveness
+- The site was designed to be responsive and function on a range of screen sizes.
+
+## Future Features
+There are a number of features that would improve the User Experience that I would like to implement in the future:
+- Have a Portuguese and English version of the website so the user can choose which language is preferable.
+- Implement some of the lates content published in some of the social media such as Instagram of Facebook so the user might feel intrested and follow the social platforms as well.
+- Comments and reviews would allow users to engage with the content and provide recommendations to other users.
+
+___
+
+## Technologies Used
+I used the following technologies, platforms and support in building my project:
+- Wireframes and mockups were designed in Balsamiq (https://balsamiq.com/wireframes/desktop/#)
+- The website is built with HTML and CSS only.
+- The Code Institute modules/lessons aided my learning and many of the concepts learned were applied in this project
+- GitHub was used for the project repository (https://github.com/Cesargarciajr/bloom-of-life)
+- Google Fonts was used for all fonts on the site (https://fonts.google.com/)
+- FontAwesome was used for the social media icons which then had additional styling applied to them (https://fontawesome.com/v4/)
+- Colors CO was used to create a colour pallete for this readme file (https://coolors.co/)
+- Adobe Colors and contrast was used to pick color and check if the contrast was good enough for users (https://color.adobe.com/pt/create/color-contrast-analyzer)
+- Also had to learn how to use flexbox which plays a important role in positioning the sections and elements in the website which I learned from W3 Schools (https://www.w3schools.com/default.asp)
+
 
 
 
