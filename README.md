@@ -110,7 +110,7 @@ ___
 # Bugs/Unresolved Issues
 Debugging and troubleshooting were done constantly throughout development, however still two main problems with the website:
 
-1. The Sticky menu at the top of the page was designed to facilitate the navigation during the user experience however when clicking any of the sections, it crops a little bit at the top of the section
+-. The Sticky menu at the top of the page was designed to facilitate the navigation during the user experience however when clicking any of the sections, it crops a little bit at the top of the section
 
 
 ![Alt text](assets/images/cropped-top.png "cropped section")
@@ -120,10 +120,12 @@ Debugging and troubleshooting were done constantly throughout development, howev
 
 ![Alt text](assets/images/about-us-section.png "Section")
 
-2. Another bug I notice is when the website is in the mobile version the footer goes behind my content but only when mobile:
-
+## Resolved bugs
+- Another bug I notice is when the website is in the mobile version the footer goes behind my content but only when mobile:
 
 ![Alt text](assets/images/footer-mobile-bug.png "Footer bug")
+
+- The problem was the Join Us section had absolute height value of 700px so the container was overlaping the footer but then it was setted to 100% and the footer now is reponsive
 
 
 --------
