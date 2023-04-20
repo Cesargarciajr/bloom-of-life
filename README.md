@@ -44,8 +44,13 @@ This website was developed to create a *Brazilian community* of new moms or preg
         ![Alt text](assets/images/hero-section.png "Hero Section") 
 
         #### About Us Section ####
-        - Here the user gets to know more about the organizer of the community and what she can offer as well as a little bit about her background and experiences.
+        - Here the user gets to know more about the organizer of the community and what she can offer as well as a little bit about her background and experiences. Also includes a picture of her to create some affection with the user.
         
         ![Alt text](assets/images/about-us-section.png "About Us Section")
 
-        
+        #### Our Community Section ####
+        - This section is desgined as a gallery and some of the "pilar words" of the community so the user can relate and get a a better understanding of what to expect and what can contribute to the community.
+
+        ![Alt text](assets/images/our-community-section.png "Our Community Section") 
+
+
