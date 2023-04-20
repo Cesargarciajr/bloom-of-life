@@ -86,6 +86,26 @@ I used the following technologies, platforms and support in building my project:
 - Adobe Colors and contrast was used to pick color and check if the contrast was good enough for users (https://color.adobe.com/pt/create/color-contrast-analyzer)
 - Also had to learn how to use flexbox which plays a important role in positioning the sections and elements in the website which I learned from W3 Schools (https://www.w3schools.com/default.asp)
 
+___
+
+## Testing
+- Tested in differents mobile devices and chrome web browser
+- Tested using the CCS validador (https://www.w3.org/)
+- Tested using the HTML validator (https://validator.w3.org/nu/)
+
+![Alt text](assets/images/css-checker.png "CSS report")
+![Alt text](assets/images/html-checker.png "HTML report")
+
+## Testing Process
+| Test                | Action                   | Success Criteria  |
+| -------------       |-------------             | -----|
+| Landingpage loads      | Navigate to website URL  | Page loads < 5s, no errors |
+| Links            | Click on each Navigation link  | Correct section is redirected action performed |
+| Form validation  | Enter data into each input field, ensure only valid data is accepted | Form doesn't submit until correct data entered, error message shown |
+| Responsiveness | Resize viewport window from 320px upwards with Chrome Dev Tools. Use Responsive Design Checker to test various mobile, tablet and large screen sizes | Page layout remains intact and adapts to screen size as intended |
+
+--------
+
 
 
 
