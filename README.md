@@ -1,3 +1,5 @@
+![Alt text](assets/images/Wireframes.png "Cover image")
+
 # Bloom of Life
 Welcome,
 
