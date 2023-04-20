@@ -250,6 +250,14 @@ body {
     font-family: 'sans-serif', Times New Roman;
 }
 
+@media screen and (max-width: 950px) {
+    #time-table {
+        width: 85vw;
+        height: 100%;        
+        padding-bottom: 5px;
+    }
+}
+
 #time-table h1{ 
     color: #6F7869;
     text-align: center;
@@ -274,6 +282,13 @@ body {
     border-radius: 5%;
 }
 
+@media screen and (max-width: 950px) {
+    #maps {
+        width: 95%;
+        height: auto;
+    }
+}
+
 #join-us {
     height: 620px;
     width: 500px;
@@ -283,6 +298,14 @@ body {
     box-shadow: 0 0 10px #6F7869;
     background-color: #E1F4D7;
     font-family: 'sans-serif', Times New Roman;
+}
+
+@media screen and (max-width: 950px) {
+    #join-us {
+        width: 85vw;
+        height: 100%;
+        padding-bottom: 20px;
+    }
 }
 
 #join-us-title {
@@ -299,11 +322,12 @@ body {
     word-spacing: 20px;
     height: 25px;    
 	border-radius: 10px;
+    color: #6F7869;
 }
 
 #join-us input:hover {
     border-color: #f1f2b9;
-    color: white;
+    color: #6F7869;
     text-shadow: 0 0 10px #6F7869;
     animation-name: form-zoom;    
     animation-fill-mode: forwards;
