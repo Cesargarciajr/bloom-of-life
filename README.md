@@ -28,6 +28,13 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
     ![Alt text](assets/images/colour-pallete.png "colour pallete")
 
+    
+    ### Typography
+    - The website uses three different fonts in a consistant distribution for better experience:
+        1. Send Flowers or fallback cursive (from google fonts)
+        2. Indie Flower or fallback cursive (from google fonts)
+        3. Sans- Serif or fall back Times New Roman
+
   - ### Site Structure
     - The site structure consist in a **"one-page"** in different sections such as:
 
