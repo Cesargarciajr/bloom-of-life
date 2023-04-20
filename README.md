@@ -102,10 +102,24 @@ ___
 | Landingpage loads      | Navigate to website URL  | Page loads < 5s, no errors |
 | Links            | Click on each Navigation link  | Correct section is redirected action performed |
 | Form validation  | Enter data into each input field, ensure only valid data is accepted | Form doesn't submit until correct data entered, error message shown |
-| Responsiveness | Resize viewport window from 320px upwards with Chrome Dev Tools. Use Responsive Design Checker to test various mobile, tablet and large screen sizes | Page layout remains intact and adapts to screen size as intended |
+| Responsiveness | Resize viewport window from 320px upwards with Chrome Dev Tools. Use Responsive Design Checker to test various mobile, tablet and large screen sizes | Page layout remains intact and adapts to screen size as intended except from footer |
 
 --------
 
+# Bugs/Issues
+Debugging and troubleshooting were done constantly throughout development, however still two main problems with the website:
+
+1. The Sticky menu at the top of the page was designed to facilitate the navigation during the user experience however when clicked any of the sections, it crops a little bit the top of the section
 
 
+![Alt text](assets/images/cropped-top.png "cropped section")
 
+- But it was supposed to look like this:
+
+
+![Alt text](assets/images/about-us-section.png "Section")
+
+2. Another bug I notice is when the website is in mobile version the footer goes behind my content but only when mobile:
+
+
+![Alt text](assets/images/footer-mobile-bug.png "Footer bug")
