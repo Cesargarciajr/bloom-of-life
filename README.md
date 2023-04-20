@@ -36,9 +36,16 @@ This website was developed to create a *Brazilian community* of new moms or preg
         3. Sans- Serif or fall back Times New Roman
 
   - ### Site Structure
-    - The site structure consist in a **"one-page"** in different sections such as:
+    - The site structure consist in a **"one-page"** with a "stiky" menu to make navigation easier through the website. The different sections are:
 
-        #### Hero Section ####
-        - Here the user can clearly see the name of purpose of the community as well as the Nav Menu
+        #### Landing Section ####
+        - Here the user can clearly see the name of purpose of the community as well as the Nav Menu which allows the user to go a specific content related to the community. The landing page is the Hero Image of two pragnant women holding flowers matching the name of the community.
 
         ![Alt text](assets/images/hero-section.png "Hero Section") 
+
+        #### About Us Section ####
+        - Here the user gets to know more about the organizer of the community and what she can offer as well as a little bit about her background and experiences.
+        
+        ![Alt text](assets/images/about-us-section.png "About Us Section")
+
+        
