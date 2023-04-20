@@ -55,8 +55,15 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
         #### Join Us Section ####
         - In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction
-
         
         ![Alt text](assets/images/join-us-section.png "Our Community Section") 
+
+        #### Footer ####
+        - And finally a footer with some useful links for social media and email.
+
+        ![Alt text](assets/images/footer.png "Footer")
+
+        
+
 
 
