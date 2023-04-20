@@ -71,6 +71,7 @@ There are a number of features that would improve the User Experience that I wou
 - Have a Portuguese and English version of the website so the user can choose which language is preferable.
 - Implement some of the lates content published in some of the social media such as Instagram of Facebook so the user might feel intrested and follow the social platforms as well.
 - Comments and reviews would allow users to engage with the content and provide recommendations to other users.
+- Add a thank you page when the form is submmitted.
 
 ___
 
@@ -106,10 +107,10 @@ ___
 
 --------
 
-# Bugs/Issues
+# Bugs/Unresolved Issues
 Debugging and troubleshooting were done constantly throughout development, however still two main problems with the website:
 
-1. The Sticky menu at the top of the page was designed to facilitate the navigation during the user experience however when clicked any of the sections, it crops a little bit the top of the section
+1. The Sticky menu at the top of the page was designed to facilitate the navigation during the user experience however when clicking any of the sections, it crops a little bit at the top of the section
 
 
 ![Alt text](assets/images/cropped-top.png "cropped section")
@@ -119,7 +120,28 @@ Debugging and troubleshooting were done constantly throughout development, howev
 
 ![Alt text](assets/images/about-us-section.png "Section")
 
-2. Another bug I notice is when the website is in mobile version the footer goes behind my content but only when mobile:
+2. Another bug I notice is when the website is in the mobile version the footer goes behind my content but only when mobile:
 
 
 ![Alt text](assets/images/footer-mobile-bug.png "Footer bug")
+
+
+--------
+
+## Deployment
+
+First of all you need to have a Github account, I choose Github because its free and easy to create repository to host your code and share with others.
+
+- To create a repository you just need to go to the main page at the top right you will see a "+" button just click here and then new repository
+
+- Select the name of the project and a description make it public and then create a repository
+
+- Once you created your repository go the settings section and then click on pages
+
+- Select the Branch as main and then save it.
+
+- Finally, your repository is deployed and it should show you a link so you can share it with others.
+
+
+--------
+
