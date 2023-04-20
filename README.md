@@ -27,3 +27,11 @@ This website was developed to create a *Brazilian community* of new moms or preg
     - The colors were chosen to remind Brazilian flag with a variation of greens and yellow as the image below
 
     ![Alt text](assets/images/colour-pallete.png "colour pallete")
+
+  - ### Site Structure
+    - The site structure consist in a **"one-page"** in different sections such as:
+
+        #### Hero Section ####
+        - Here the user can clearly see the name of purpose of the community as well as the Nav Menu
+
+        ![Alt text](assets/images/hero-section.png "Hero Section") 
