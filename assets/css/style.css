@@ -159,7 +159,8 @@ body {
 }
 
 #profile-picture {
-      height: 325px;
+      height: 20.31em;
+      width: 20.31em;
       border-radius: 50%;
       box-shadow: 0 0 10px #6F7869;
       left: 60%;
@@ -276,7 +277,6 @@ body {
     padding-right: 25px;
     padding-left: 25px;
     font-size: 20px;
-
 }
 
 #maps {
