@@ -139,7 +139,7 @@ body {
 }
 
 #organized-by {
-    height: auto;
+    height: 100%;
     width: 500px;
     text-align: center;
     border-radius: 5%;
@@ -148,6 +148,7 @@ body {
     box-shadow: 0 0 10px #6F7869;
     background-color: #E1F4D7;
     font-family: 'sans-serif', Times New Roman;
+    padding-bottom: 5px;
 }
 
 @media screen and (max-width: 950px) {
