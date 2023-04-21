@@ -42,7 +42,6 @@ body {
 /* Adding style to the navigation menu*/
 #menu {
     text-align: center;
-    /*letter-spacing: 4px;*/
     margin: 15px 0 4px 0;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -108,7 +107,7 @@ body {
     position: absolute;
 }
 
-/* Adding style to the organized by section*/
+/* Adding style to the About Us section*/
 
 #second-section {
     height: 100%;
@@ -140,7 +139,7 @@ body {
 
 #organized-by {
     height: 100%;
-    width: 500px;
+    width: 31.25em;
     text-align: center;
     border-radius: 5%;
     top: 150px;
@@ -154,9 +153,8 @@ body {
 @media screen and (max-width: 950px) {
     #organized-by {
         width: 85vw;
-        height: 350px;
+        height: 100%;
     }
-    
 }
 
 #profile-picture {
