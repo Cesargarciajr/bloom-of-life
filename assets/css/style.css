@@ -61,7 +61,7 @@ body {
 }
 
 #top-fixed {
-    position: sticky; 
+    position: sticky;
     top: 0;
     background-color: #E1F4D7;
     z-index:100;
@@ -111,10 +111,11 @@ body {
 /* Adding style to the organized by section*/
 
 #second-section {
-    height: auto;
+    height: 100%;
     width: 100%;
     background-color: #f1f2b9;
-    padding-bottom: 1em;
+    padding-top: 7em;
+    padding-bottom: 7em;
 }
 
 #content-div {
@@ -191,6 +192,8 @@ body {
 #gallery-section {
     height: auto;
     width: 100%;
+    padding-top: 7em;
+    padding-bottom: 7em;
 }
 
 #our-community-title {
@@ -236,8 +239,8 @@ body {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 12em;
+    padding-bottom: 7em;
     gap: 2em;
 }
 
