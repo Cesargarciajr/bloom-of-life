@@ -395,3 +395,33 @@ footer {
     color:#f1f2b9 ;
     text-shadow: 0 0 10px white;
 }
+
+#thank-you-container img{
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#thank-you-text {
+    text-align: center;
+    font-size: 16px;
+    color: #6F7869;
+    text-shadow: 0 0 10px white;
+    width: 300px;
+    height: 250px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(225,244,215, 0.9);
+    border: 1px solid #6F7869;
+    border-radius: 10px;
+    position: absolute;
+    left: 39%;
+    top: 40%;
+}
+
+#thank-you-text h1 {
+    font-family: 'Send Flowers', cursive;
+    font-size: 42px;
+}
