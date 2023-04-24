@@ -56,7 +56,14 @@ body {
     color: white;
     font-family: 'sans-serif', Times New Roman;
     border-radius: 10px;
-    
+    width: 100%;
+}
+
+/* Media query for better fit nav bar in smaller screens*/
+@media only screen and (max-width: 600px) {
+    #menu {
+        font-size: 16px;
+    }
 }
 
 #menu a {
@@ -78,6 +85,7 @@ body {
     height: 600px;
     width: 100%;
     position: relative;
+    display: flex;
 }
 
 #cover-picture img {
@@ -97,28 +105,53 @@ body {
 }
 
 #cover-text {
-    text-align: left;
     font-size: 16px;
+    font-family: 'sans-serif', Times New Roman;
+    text-align: left;
     color: #6F7869;
     text-shadow: 0 0 10px white;
-    font-family: 'sans-serif', Times New Roman;
-    width: 25%;
-    height: auto;
+
+    width: 300px;
+    height: 200px;
+
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: rgba(225,244,215, 0.8);
-    bottom: 2%;
-    right: 2%;
     border-radius: 10px;
+
+    background-color: rgba(225,244,215, 0.8);
+
+    bottom: 20px;
+    right: 80px;
+    
     position: absolute;
 }
 
-/*Media queria for mobile screens*/
-@media screen and (max-width: 950px) {
+/*Media query for Ipad and Medium devices screen cover-text positioning behaviour*/
+@media only screen and (min-width: 768px) {
     #cover-text {
         width: 70%;
-        height: auto;
+        height: 150px;
+        top: 600px;
+    }
+}
+/*Media query for smart phones and Small devices screen cover-text positioning behaviour*/
+@media only screen and (max-width: 600px){
+    #cover-text {
+        width: 200px;
+        height: 250px;
+        top: 500px;
+        right: 40px;
+    }
+}
+
+/*Media query for Large devices screen cover-text positioning behaviour*/
+@media only screen and (min-width: 1200px){
+    #cover-text {
+        width: 300px;
+        height: 200px;
+        top: 500px;
+        right: 40px;
     }
 }
 
