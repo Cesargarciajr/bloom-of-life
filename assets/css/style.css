@@ -102,7 +102,7 @@ body {
     padding-right: 20px;
     background-color: rgba(225,244,215, 0.8);
     bottom: 30px;
-    right: 30px;
+    right: 2%;
     border-radius: 10px;
     position: absolute;
 }
@@ -416,8 +416,8 @@ footer {
     font-size: 16px;
     color: #6F7869;
     text-shadow: 0 0 10px white;
-    width: 300px;
-    height: 250px;
+    width: 30%;
+    height: auto;
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
