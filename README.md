@@ -154,4 +154,20 @@ First of all you need to have a Github account, I choose Github because its free
 
 ## Credits
 
-
+- Code Institute  - HTML and CSS module content (https://codeinstitute.net/)
+- Pexel - for images and photos (https://www.pexels.com/)
+- iStock - for images and photos (https://www.istockphoto.com/)
+- GitHub - for deployment and host (https://github.com/)
+- GitPod - for IDE and editor of the code (https://gitpod.io/)
+- TinyPNG - resizing images (https://tinypng.com/)
+- CSS Tricks - learn how to style better in CSS (https://css-tricks.com/)
+- Jot Form - learn how to create and style forms in html (https://www.jotform.com/)
+- HubSpot - learn how to use Google Maps API (https://blog.hubspot.com/website/how-to-embed-google-map-in-html)
+- W3 Schools - used for multiples researches and tutorials in HTML and CSS (https://www.w3schools.com/)
+- Adobe Color - used to check contrast between the colors picked for project (https://color.adobe.com/pt/create/color-contrast-analyzer)
+- Color Hunt - used to select colors of the project (https://colorhunt.co/)
+- Balsamiq - used for wireframes (https://balsamiq.com/wireframes/)
+- Font Awesome - used for icons (https://fontawesome.com/)
+- Google fonts - for fonts used in this project were found at (https://fonts.google.com/)
+- Rafael - helped with insights and coding tips
+- Carl Murray - helped with bugs fix and styling ideas
