@@ -169,5 +169,12 @@ First of all you need to have a Github account, I choose Github because its free
 - Balsamiq - used for wireframes (https://balsamiq.com/wireframes/)
 - Font Awesome - used for icons (https://fontawesome.com/)
 - Google fonts - for fonts used in this project were found at (https://fonts.google.com/)
+- Precious Ijege - mentor helping with insights and coding fix
 - Rafael - helped with insights and coding tips
 - Carl Murray - helped with bugs fix and styling ideas
+
+## Acknowledgments
+
+- I'd to thank Code Institute for the opportunity of putting all the knowledge in practise. My mentor Precious Ijege and Alan Bushell, my cohort facilitator, for help with this project as well extra people the helped through my struggles and need specially Rafael and Carl Murray.
+
+# THANK YOU!
