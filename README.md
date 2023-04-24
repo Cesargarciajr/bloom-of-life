@@ -175,6 +175,6 @@ First of all you need to have a Github account, I choose Github because its free
 
 ## Acknowledgments
 
-- I'd to thank Code Institute for the opportunity of putting all the knowledge in practise. My mentor Precious Ijege and Alan Bushell, my cohort facilitator, for help with this project as well extra people the helped through my struggles and need specially Rafael and Carl Murray.
+I'd to thank Code Institute for the opportunity of putting all the knowledge in practise. My mentor Precious Ijege and Alan Bushell, my cohort facilitator, for help with this project as well extra people the helped through my struggles and need specially Rafael and Carl Murray.
 
 # THANK YOU!
