@@ -58,6 +58,11 @@ This website was developed to create a *Brazilian community* of new moms or preg
         
         ![Alt text](assets/images/join-us-section.png "Our Community Section") 
 
+         #### Thank you Page ####
+        - This page was created for a responsive after the form is submmitted and henrit the main website structure such as stiky menu on top with nav bar and links, and also footer with social media links.
+
+        ![Alt text](assets/images/thank-you-page.png"Our Community Section") 
+
         #### Footer ####
         - And finally a footer with some useful links for social media and email.
 
@@ -69,9 +74,8 @@ This website was developed to create a *Brazilian community* of new moms or preg
 ## Future Features
 There are a number of features that would improve the User Experience that I would like to implement in the future:
 - Have a Portuguese and English version of the website so the user can choose which language is preferable.
-- Implement some of the lates content published in some of the social media such as Instagram of Facebook so the user might feel intrested and follow the social platforms as well.
+- Implement some of the latest content published in some of the social media such as Instagram or Facebook so the user might feel interested and follow the social platforms as well.
 - Comments and reviews would allow users to engage with the content and provide recommendations to other users.
-- Add a thank you page when the form is submmitted.
 
 ___
 
