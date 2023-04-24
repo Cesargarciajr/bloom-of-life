@@ -61,7 +61,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
          #### Thank you Page ####
         - This page was created for a responsive after the form is submmitted and henrit the main website structure such as stiky menu on top with nav bar and links, and also footer with social media links.
 
-        ![Alt text](assets/images/thank-you-page.png"Our Community Section") 
+        ![Alt text](assets/images/thank-you-page.png "Thank you page") 
 
         #### Footer ####
         - And finally a footer with some useful links for social media and email.
