@@ -1,6 +1,12 @@
 /*Importing fonts from google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Indie+Flower&family=Playfair+Display+SC&family=Send+Flowers&display=swap');
 
+/* effect for smooth transaction between sections*/
+
+html {
+    scroll-behavior: smooth;
+}
+
 /*Defining background color*/
 body {
     background-color: #E1F4D7;
