@@ -95,16 +95,24 @@ body {
     color: #6F7869;
     text-shadow: 0 0 10px white;
     font-family: 'sans-serif', Times New Roman;
-    width: 300px;
-    height: 200px;
+    width: 25%;
+    height: auto;
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
     background-color: rgba(225,244,215, 0.8);
     bottom: 30px;
     right: 30px;
-    border-radius: 5%;
+    border-radius: 10px;
     position: absolute;
+}
+
+/*Media queria for mobile screens*/
+@media screen and (max-width: 950px) {
+    #cover-text {
+        width: 70%;
+        height: auto;
+    }
 }
 
 /* Adding style to the About Us section*/
