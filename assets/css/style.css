@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Indie+Flower&family=Playfair+Display+SC&family=Send+Flowers&display=swap');
 
 /* effect for smooth transaction between sections*/
-
 html {
     scroll-behavior: smooth;
+    scroll-padding-top: 170px;
 }
 
 /*Defining background color*/
@@ -68,6 +68,7 @@ body {
 #top-fixed {
     position: sticky;
     top: 0;
+    overflow: hidden;
     background-color: #E1F4D7;
     z-index:100;
 }
@@ -127,8 +128,8 @@ body {
     height: 100%;
     width: 100%;
     background-color: #f1f2b9;
-    padding-top: 7em;
-    padding-bottom: 7em;
+    /*padding-top: 7em;
+    padding-bottom: 7em;*/
 }
 
 #content-div {
@@ -206,8 +207,8 @@ body {
 #gallery-section {
     height: auto;
     width: 100%;
-    padding-top: 7em;
-    padding-bottom: 7em;
+    /*padding-top: 7em;
+    padding-bottom: 7em;*/
 }
 
 #our-community-title {
@@ -253,8 +254,8 @@ body {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    padding-top: 12em;
-    padding-bottom: 7em;
+    padding-top: 3em;
+    padding-bottom: 3em;
     gap: 2em;
 }
 
