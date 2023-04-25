@@ -11,15 +11,15 @@ This website was developed to create a *Brazilian community* of new moms or preg
 # Content
 
 * [**User Experience UX**](<#user-experience-ux>)
+    *  [User Stories](<#user-stories>)
+    * [Wireframes](<#wireframes>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
 
 
 ## User Experience (UX)
 
-###Wireframes
-
-![Alt text](assets/images/Wireframes.png "wireframes")
-
-### User Stories
+  ### User Stories
 
   - #### First-Time Visitor Goals
     1. As a First Time Visitor, I want to know more about what the community can offer.
@@ -34,21 +34,37 @@ This website was developed to create a *Brazilian community* of new moms or preg
     1. As a Frequent User, I want to check for any updates on the schedules.
     2. As a Frequent User, I want to use the map on the contact page to add to the route of my GPS.
 
+  [Back to top](<#contents>)
+  
+  - ### Wireframes
+
+    The wireframes for Bloom of Life were produced in [Balsamiq](https://balsamiq.com). There are frames for a full width display and a small mobile device. The final site varies slightly from the wireframes due to developments that occured during the creation process.
+
+    ![Alt text](assets/images/Wireframes.png "wireframes")
+
+[Back to top](<#contents>)
+
+  - ### Site Structure
+    The site structure consist in a **"one-page"** with a "stiky" menu to make navigation easier through the website. There are 3 different sections such as: Landing, About Us, Our Community and Join Us, also includes a Footer for social media and easy links to connect and get to know more about the project.
+
+[Back to top](<#contents>)
+
+  - ### Design Choices
+
+    - #### Typography
+        - The website uses three different fonts in a consistant distribution for better experience:
+            1. Send Flowers or fallback cursive (https://fonts.google.com/)
+            2. Indie Flower or fallback cursive (https://fonts.google.com/
+            3. Sans- Serif or fall back Times New Roman
+
+
   - ### Color Scheme
     - The colors were chosen to remind Brazilian flag with a variation of greens and yellow as the image below
 
     ![Alt text](assets/images/colour-pallete.png "colour pallete")
 
     
-    ### Typography
-    - The website uses three different fonts in a consistant distribution for better experience:
-        1. Send Flowers or fallback cursive (from google fonts)
-        2. Indie Flower or fallback cursive (from google fonts)
-        3. Sans- Serif or fall back Times New Roman
-
-  - ### Site Structure
-    - The site structure consist in a **"one-page"** with a "stiky" menu to make navigation easier through the website. The different sections are:
-
+    
         #### Landing Section ####
         - Here the user can clearly see the name of purpose of the community as well as the Nav Menu which allows the user to go a specific content related to the community. The landing page is the Hero Image of two pragnant women holding flowers matching the name of the community.
 
