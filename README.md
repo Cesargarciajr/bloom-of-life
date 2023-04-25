@@ -117,14 +117,16 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
 [Back to top](<#contents>)
 
+  ### Future Features
+  - There are a number of features that would improve the User Experience that I would like to implement in the future:
+  - Have a Portuguese and English version of the website so the user can choose which language is preferable.
+  - Implement some of the latest content published in some of the social media such as Instagram or Facebook so the user might feel interested and follow the social platforms as well.
+  - Comments and reviews would allow users to engage with the content and provide recommendations to other users.
+
+[Back to top](<#contents>)
+
 ## Responsiveness
 - The site was designed to be responsive and function on a range of screen sizes.
-
-## Future Features
-There are a number of features that would improve the User Experience that I would like to implement in the future:
-- Have a Portuguese and English version of the website so the user can choose which language is preferable.
-- Implement some of the latest content published in some of the social media such as Instagram or Facebook so the user might feel interested and follow the social platforms as well.
-- Comments and reviews would allow users to engage with the content and provide recommendations to other users.
 
 ___
 
