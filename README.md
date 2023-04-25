@@ -76,48 +76,42 @@ This website was developed to create a *Brazilian community* of new moms or preg
   Bloom Of Life site is set up to be welcoming and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and contact form. The overall feel of the website is intended to be inviting and not intimidating to encourage the user to explore further. 
     
   ### Landing Section
-    
-    Here the user can clearly see the name of purpose of the community as well as the Nav Menu which allows the user to go a specific content related to the community. The landing page is the Hero Image of two pragnant women holding flowers matching the name of the community.
+  Here the user can clearly see the name of purpose of the community as well as the Nav Menu which allows the user to go a specific content related to the community. The landing page is the Hero Image of two pragnant women holding flowers matching the name of the community.
 
   ![Alt text](assets/images/hero-section.png "Hero Section") 
 
 [Back to top](<#contents>)
 
   ### About Us Section
-    
-    Here the user gets to know more about the organizer of the community and what she can offer as well as a little bit about her background and experiences. Also includes a picture of her to create some affection with the user.
+  Here the user gets to know more about the organizer of the community and what she can offer as well as a little bit about her background and experiences. Also includes a picture of her to create some affection with the user.
         
   ![Alt text](assets/images/about-us-section.png "About Us Section")
 
 [Back to top](<#contents>)
 
   ### Our Community Section
-
-    This section is desgined as a gallery and some of the "pilar words" of the community so the user can relate and get a a a better understanding of what to expect and what can contribute to the community.
+  This section is desgined as a gallery and some of the "pilar words" of the community so the user can relate and get a a a better understanding of what to expect and what can contribute to the community.
 
   ![Alt text](assets/images/our-community-section.png "Our Community Section") 
 
 [Back to top](<#contents>)
 
   ### Join Us Section
-    
-    In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction
+  In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction
         
   ![Alt text](assets/images/join-us-section.png "Our Community Section") 
 
 [Back to top](<#contents>)
 
   ### Thank you Page
-  
-    This page was created for a responsive after the form is submmitted and henrit the main website structure such as stiky menu on top with nav bar and links, and also footer with social media links.
+  This page was created for a responsive after the form is submmitted and henrit the main website structure such as stiky menu on top with nav bar and links, and also footer with social media links.
 
   ![Alt text](assets/images/thank-you-page.png "Thank you page") 
 
 [Back to top](<#contents>)
 
   ### Footer
-        
-    And finally a footer with some useful links for social media and email.
+  And finally a footer with some useful links for social media and email.
 
   ![Alt text](assets/images/footer.png "Footer")
 
