@@ -21,10 +21,17 @@ This website was developed to create a *Brazilian community* of new moms or preg
     * [Our Community Section](<#our-community-section>)
     * [Join Us Section](<#join-us-section>)
     * [Thank you Page](<#thank-you-page>)
-    * [Footer](<#footer>)(<#footer>)
+    * [Footer](<#footer>)
     * [Future Features](<#future-features>)
 * [**Testing**](<#testing>)
     * [Testing Process](<#testing-process>)
+    * [Bugs and Issues](<#bugs-and-issues>)
+* [**Technologies Used**](<#technologies-used>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [Content](<#content>)
+    * [Media](<#media>)
+* [**Acknowledgments**](<#acknowledgments>)
 
 
     
@@ -155,7 +162,7 @@ You can see the reports below as mentioned before:
 
 [Back to top](<#contents>)
 
- ### Issues and Bugs
+ ### Bugs and Issues
 
 Debugging and troubleshooting were done constantly throughout development, however still two main problems with the website:
 
@@ -194,18 +201,13 @@ I used the following technologies, platforms and support in building my project:
 - FontAwesome was used for the social media icons which then had additional styling applied to them (https://fontawesome.com/v4/)
 - Colors CO was used to create a colour pallete for this readme file (https://coolors.co/)
 - Adobe Colors and contrast was used to pick color and check if the contrast was good enough for users (https://color.adobe.com/pt/create/color-contrast-analyzer)
-- Also had to learn how to use flexbox which plays a important role in positioning the sections and elements in the website which I learned from W3 Schools (https://www.w3schools.com/default.asp)
+- Also had to learn how to use Flexbox which plays a important role in positioning the sections and elements in the website which I learned from W3 Schools (https://www.w3schools.com/default.asp)
 
-___
-
-
-
-
---------
+[Back to top](<#contents>)
 
 ## Deployment
 
-First of all you need to have a Github account, I choose Github because its free and easy to create repository to host your code and share with others.
+First of all you need to have a GitHub account, I choose Github because it's free and easy to create a repository to host your code and share with others.
 
 - To create a repository you just need to go to the main page at the top right you will see a "+" button just click here and then new repository
 
@@ -217,33 +219,38 @@ First of all you need to have a Github account, I choose Github because its free
 
 - Finally, your repository is deployed and it should show you a link so you can share it with others.
 
-
---------
-
+[Back to top](<#contents>)
 
 ## Credits
 
-- Code Institute  - HTML and CSS module content (https://codeinstitute.net/)
+  ### Content  
+  - Code Institute  - HTML and CSS module content (https://codeinstitute.net/)
+  - GitHub - for deployment and host (https://github.com/)
+  - GitPod - for IDE and editor of the code (https://gitpod.io/)
+  - Rafael Allan - helped with insights and coding tips (https://www.linkedin.com/in/rafael-allan/)
+  - Carl Murray - helped with bugs fix and styling ideas (https://github.com/CarlMurray)
+  - Precious Ijege - Mentor helping with insights and coding fix (https://www.linkedin.com/in/precious-ijege-908a00168/)
+  - CSS Tricks - learn how to style better in CSS (https://css-tricks.com/)
+  - Jot Form - learn how to create and style forms in html (https://www.jotform.com/)
+  - HubSpot - learn how to use Google Maps API (https://blog.hubspot.com/website/how-to-embed-google-map-in-html)
+  - W3 Schools - used for multiples researches and tutorials in HTML and CSS (https://www.w3schools.com/)
+  - Color Hunt - used to select colors of the project (https://colorhunt.co/)
+
+[Back to top](<#contents>)
+
+  ### Media
 - Pexel - for images and photos (https://www.pexels.com/)
 - iStock - for images and photos (https://www.istockphoto.com/)
-- GitHub - for deployment and host (https://github.com/)
-- GitPod - for IDE and editor of the code (https://gitpod.io/)
 - TinyPNG - resizing images (https://tinypng.com/)
-- CSS Tricks - learn how to style better in CSS (https://css-tricks.com/)
-- Jot Form - learn how to create and style forms in html (https://www.jotform.com/)
-- HubSpot - learn how to use Google Maps API (https://blog.hubspot.com/website/how-to-embed-google-map-in-html)
-- W3 Schools - used for multiples researches and tutorials in HTML and CSS (https://www.w3schools.com/)
 - Adobe Color - used to check contrast between the colors picked for project (https://color.adobe.com/pt/create/color-contrast-analyzer)
-- Color Hunt - used to select colors of the project (https://colorhunt.co/)
 - Balsamiq - used for wireframes (https://balsamiq.com/wireframes/)
 - Font Awesome - used for icons (https://fontawesome.com/)
 - Google fonts - for fonts used in this project were found at (https://fonts.google.com/)
-- Precious Ijege - mentor helping with insights and coding fix
-- Rafael - helped with insights and coding tips
-- Carl Murray - helped with bugs fix and styling ideas
+
+[Back to top](<#contents>)
 
 ## Acknowledgments
 
-I'd to thank Code Institute for the opportunity of putting all the knowledge in practise. My mentor Precious Ijege and Alan Bushell, my cohort facilitator, for help with this project as well extra people the helped through my struggles and need specially Rafael and Carl Murray.
+I'd to thank Code Institute for the opportunity of putting all the knowledge in practise. My mentor Precious Ijege and Alan Bushell, my cohort facilitator, for help with this project as well extra people the helped through my struggles and need specially Rafael Allan and Carl Murray.
 
 # THANK YOU!
