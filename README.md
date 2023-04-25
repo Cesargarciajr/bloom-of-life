@@ -4,7 +4,7 @@
 
 Welcome,
 
-This website was developed to create a *Brazilian community* of new moms or pregnant women in Ireland, and was called **Bloom of Life**. The aim of the project is **connect, inspire, and share** experiences. Provide shelter for those insecure mothers in a different country and away from family, and care for those who feel alone throughout the challenges of maternity.
+This website was developed to create a *Brazilian community* of new moms or pregnant women in Ireland, and was called **Bloom Of Life**. The aim of the project is **connect, inspire, and share** experiences. Provide shelter for those insecure mothers in a different country and away from family, and care for those who feel alone throughout the challenges of maternity.
 
 ![Alt text](assets/images/Responsive.png "wireframes")
 
@@ -68,7 +68,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
     - #### Color Scheme
         - The colors were chosen to remind Brazilian flag with a variation of greens and yellow as in the image below
 
-              ![Alt text](assets/images/colour-pallete.png "colour pallete")
+  ![Alt text](assets/images/colour-pallete.png "colour pallete")
 
 [Back to top](<#contents>)
 
@@ -77,7 +77,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
     
   ### Landing Section
     
-    - Here the user can clearly see the name of purpose of the community as well as the Nav Menu which allows the user to go a specific content related to the community. The landing page is the Hero Image of two pragnant women holding flowers matching the name of the community.
+    Here the user can clearly see the name of purpose of the community as well as the Nav Menu which allows the user to go a specific content related to the community. The landing page is the Hero Image of two pragnant women holding flowers matching the name of the community.
 
   ![Alt text](assets/images/hero-section.png "Hero Section") 
 
@@ -85,7 +85,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
   ### About Us Section
     
-    - Here the user gets to know more about the organizer of the community and what she can offer as well as a little bit about her background and experiences. Also includes a picture of her to create some affection with the user.
+    Here the user gets to know more about the organizer of the community and what she can offer as well as a little bit about her background and experiences. Also includes a picture of her to create some affection with the user.
         
   ![Alt text](assets/images/about-us-section.png "About Us Section")
 
@@ -93,7 +93,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
   ### Our Community Section
 
-    - This section is desgined as a gallery and some of the "pilar words" of the community so the user can relate and get a a a better understanding of what to expect and what can contribute to the community.
+    This section is desgined as a gallery and some of the "pilar words" of the community so the user can relate and get a a a better understanding of what to expect and what can contribute to the community.
 
   ![Alt text](assets/images/our-community-section.png "Our Community Section") 
 
@@ -101,7 +101,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
   ### Join Us Section
     
-    - In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction
+    In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction
         
   ![Alt text](assets/images/join-us-section.png "Our Community Section") 
 
@@ -109,7 +109,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
   ### Thank you Page
   
-    - This page was created for a responsive after the form is submmitted and henrit the main website structure such as stiky menu on top with nav bar and links, and also footer with social media links.
+    This page was created for a responsive after the form is submmitted and henrit the main website structure such as stiky menu on top with nav bar and links, and also footer with social media links.
 
   ![Alt text](assets/images/thank-you-page.png "Thank you page") 
 
@@ -117,7 +117,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
   ### Footer
         
-    - And finally a footer with some useful links for social media and email.
+    And finally a footer with some useful links for social media and email.
 
   ![Alt text](assets/images/footer.png "Footer")
 
