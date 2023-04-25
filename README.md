@@ -4,7 +4,7 @@
 
 Welcome,
 
-This website was developed to create a *Brazilian community* of new moms or pregnant women in Ireland, and was called **Bloom Of Life**. The aim of the project is **connect, inspire, and share** experiences. Provide shelter for those insecure mothers in a different country and away from family, and care for those who feel alone throughout the challenges of maternity.
+This website was developed to create a *Brazilian community* of new moms or pregnant women in Ireland, and was called [**Bloom Of Life**](https://cesargarciajr.github.io/bloom-of-life/#second-section). The aim of the project is *connect, inspire, and share* experiences. Provide shelter for those insecure mothers in a different country and away from family, and care for those who feel alone throughout the challenges of maternity.
 
 [**link for Bloom Of Life**](https://cesargarciajr.github.io/bloom-of-life/#second-section)
 
@@ -67,7 +67,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 [Back to top](<#contents>)
 
   - ### Site Structure
-    The site structure consists of a **"one-page"** with a "sticky" menu to make navigation easier through the website. There are 3 different sections such as [**Landing**](<#landing-section>), [**About Us**](<#about-us-section>), [**Our Community**](<#our-community-section>) and [**Join Us**](<#join-us-section>), also includes a [**Footer**](<#footer>) for social media and easy links to connect and get to know more about the project.
+    The site structure consists of a *"one-page"* with a *"sticky"* menu to make navigation easier through the website. There are 3 different sections such as [**Landing**](<#landing-section>), [**About Us**](<#about-us-section>), [**Our Community**](<#our-community-section>) and [**Join Us**](<#join-us-section>), also includes a [**Footer**](<#footer>) for social media and easy links to connect and get to know more about the project.
 
 [Back to top](<#contents>)
 
