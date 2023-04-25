@@ -6,7 +6,7 @@ Welcome,
 
 This website was developed to create a *Brazilian community* of new moms or pregnant women in Ireland, and was called **Bloom Of Life**. The aim of the project is **connect, inspire, and share** experiences. Provide shelter for those insecure mothers in a different country and away from family, and care for those who feel alone throughout the challenges of maternity.
 
-[link for Bloom Of Life}(https://cesargarciajr.github.io/bloom-of-life/#second-section)
+[link for Bloom Of Life](https://cesargarciajr.github.io/bloom-of-life/#second-section)
 
 ![Alt text](assets/images/Responsive.png "wireframes")
 
