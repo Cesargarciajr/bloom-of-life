@@ -8,7 +8,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
 ![Alt text](assets/images/Responsive.png "wireframes")
 
-# Content
+# Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
     *  [User Stories](<#user-stories>)
