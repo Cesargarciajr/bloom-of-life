@@ -21,7 +21,12 @@ This website was developed to create a *Brazilian community* of new moms or preg
     * [Our Community Section](<#our-community-section>)
     * [Join Us Section](<#join-us-section>)
     * [Thank you Page](<#thank-you-page>)
-    * [Footer](<#footer>)
+    * [Footer](<#footer>)(<#footer>)
+    * [Future Features](<#future-features>)
+* [**Testing**](<#testing>)
+    * [Testing Process](<#testing-process>)
+
+
     
 
 
@@ -125,8 +130,57 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
 [Back to top](<#contents>)
 
-## Responsiveness
-- The site was designed to be responsive and function on a range of screen sizes.
+## Testing
+- Tested in differents mobile devices and chrome web browser
+- Tested using the CCS validador (https://www.w3.org/)
+- Tested using the HTML validator (https://validator.w3.org/nu/)
+- Tested using the Lightroom dev tool from Google Chrome
+
+You can see the reports below as mentioned before:
+
+![Alt text](assets/images/css-checker.png "CSS report")
+![Alt text](assets/images/html-checker.png "HTML report")
+![Alt text](assets/images/light-room-chrome.png "HTML report")
+
+[Back to top](<#contents>)
+
+  ### Testing Process
+  | Test                | Action                   | Success Criteria  |
+  | -------------       |-------------             | -----|
+  | Landingpage loads      | Navigate to website URL  | Page loads < 5s, no errors |
+  | Links            | Click on each Navigation link  | Correct section is redirected action performed |
+  | Form validation  | Enter data into each input field, ensure only valid data is accepted | Form doesn't submit until correct data entered, error message shown |
+  | Responsiveness | Resize the viewport window from 320px upwards with Chrome Dev Tools. Use Responsive Design Checker to test various mobile, tablet, and large screen sizes | Page layout remains intact and adapts to screen size as intended except footer |
+
+
+[Back to top](<#contents>)
+
+ ### Issues and Bugs
+
+Debugging and troubleshooting were done constantly throughout development, however still two main problems with the website:
+
+- The Sticky menu at the top of the page was designed to facilitate the navigation during the user experience however when clicking any of the sections, it crops a little bit at the top of the section
+
+
+![Alt text](assets/images/cropped-top.png "cropped section")
+
+But it was supposed to look like this:
+
+
+![Alt text](assets/images/about-us-section.png "Section")
+
+So we found a solution with Carl Murray to add the code below to "push" the content down when the nav bar is clicked in order to fit the content perfectly to the website frame
+
+![Alt text](assets/images/fixed-bug.png "fixed-bug")
+
+
+- Another bug I notice is when the website is in the mobile version the footer goes behind my content but only when mobile:
+
+![Alt text](assets/images/footer-mobile-bug.png "Footer bug")
+
+- The problem was the Join Us section had absolute height value of 700px so the container was overlaping the footer but then it was setted to 100% and the footer now is reponsive
+
+[Back to top](<#contents>)
 
 ___
 
@@ -144,43 +198,7 @@ I used the following technologies, platforms and support in building my project:
 
 ___
 
-## Testing
-- Tested in differents mobile devices and chrome web browser
-- Tested using the CCS validador (https://www.w3.org/)
-- Tested using the HTML validator (https://validator.w3.org/nu/)
 
-![Alt text](assets/images/css-checker.png "CSS report")
-![Alt text](assets/images/html-checker.png "HTML report")
-
-## Testing Process
-| Test                | Action                   | Success Criteria  |
-| -------------       |-------------             | -----|
-| Landingpage loads      | Navigate to website URL  | Page loads < 5s, no errors |
-| Links            | Click on each Navigation link  | Correct section is redirected action performed |
-| Form validation  | Enter data into each input field, ensure only valid data is accepted | Form doesn't submit until correct data entered, error message shown |
-| Responsiveness | Resize viewport window from 320px upwards with Chrome Dev Tools. Use Responsive Design Checker to test various mobile, tablet and large screen sizes | Page layout remains intact and adapts to screen size as intended except from footer |
-
---------
-
-# Bugs/Unresolved Issues
-Debugging and troubleshooting were done constantly throughout development, however still two main problems with the website:
-
--. The Sticky menu at the top of the page was designed to facilitate the navigation during the user experience however when clicking any of the sections, it crops a little bit at the top of the section
-
-
-![Alt text](assets/images/cropped-top.png "cropped section")
-
-- But it was supposed to look like this:
-
-
-![Alt text](assets/images/about-us-section.png "Section")
-
-## Resolved bugs
-- Another bug I notice is when the website is in the mobile version the footer goes behind my content but only when mobile:
-
-![Alt text](assets/images/footer-mobile-bug.png "Footer bug")
-
-- The problem was the Join Us section had absolute height value of 700px so the container was overlaping the footer but then it was setted to 100% and the footer now is reponsive
 
 
 --------
