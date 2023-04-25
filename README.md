@@ -111,9 +111,9 @@ This website was developed to create a *Brazilian community* of new moms or preg
 [Back to top](<#contents>)
 
   ### Join Us Section
-  In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction
+  In this section, the user can find useful information about time, location, and also how to subscribe to the community. Also were allocated a mini Google maps for a better experience if the user needs to get direction. There is also a form so the user can subscribe for any updates and be part of the community.
         
-  ![Alt text](assets/images/join-us-section.png "Our Community Section") 
+  ![Alt text](assets/images/join-us-section.png "Join Us Section") 
 
 [Back to top](<#contents>)
 
@@ -249,6 +249,7 @@ First of all you need to have a [**GitHub**](https://github.com/Cesargarciajr/bl
 - [**Balsamiq**](https://balsamiq.com/wireframes/) - used for wireframes.
 - [**Font Awesome**](https://fontawesome.com/) - used for icons.
 - [**Google fonts**](https://fonts.google.com/) - for fonts used in this project.
+- [**Am I Resposive**](https://ui.dev/amiresponsive/) - for the  Hero image in the ReadMe file.
 
 [Back to top](<#contents>)
 

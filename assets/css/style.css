@@ -367,19 +367,18 @@ body {
     word-spacing: 20px;
 }
 
-#join-us input {
+.form-box {
     background-color: #f1f2b9;
     box-shadow: 0 0 10px #6F7869;
-    word-spacing: 20px;
-    height: 25px;    
+    height: 25px;
+    width: 195px;    
 	border-radius: 10px;
     color: #6F7869;
+    align-items: left;
 }
 
 #join-us input:hover {
     border-color: #f1f2b9;
-    color: #6F7869;
-    text-shadow: 0 0 10px #6F7869;
     animation-name: form-zoom;    
     animation-fill-mode: forwards;
 }
@@ -399,10 +398,12 @@ form {
 
 #submit {
     background: #6F7869;
-	color: #6F7869;
+	color: white;
 	border-style: outset;
+    border-color: #6F7869;
+    border-radius: 10px;
 	height: 50px;
-	width: 100px;
+	width: 150px;
     font-family: 'sans-serif', Times New Roman;
     font-weight: bold;
 }
