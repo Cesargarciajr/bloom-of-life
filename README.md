@@ -18,7 +18,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 * [**Features**](<#features>)
     * [Landing Section](<#landing-section>)
     * [About Us Section](<#about-us-section>)
-    * [Our Community Section](<#our-sommunity-section>)
+    * [Our Community Section](<#our-community-section>)
     * [Join Us Section](<#join-us-section>)
     * [Thank you Page](<#thank-you-page>)
     * [Footer](<#footer>)
