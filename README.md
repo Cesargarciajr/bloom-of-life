@@ -256,6 +256,8 @@ First of all you need to have a [**GitHub**](https://github.com/Cesargarciajr/bl
 
 I'd to thank Code Institute for the opportunity of putting all the knowledge into practice. My mentor [**Precious Ijege**](https://www.linkedin.com/in/precious-ijege-908a00168/) and Alan Bushell, my cohort facilitator, for help with this project as well as extra people the helped me through my struggles and needs specially [**Rafael Allan**](https://www.linkedin.com/in/rafael-allan/) and [**Carl Murray**](https://github.com/CarlMurray).
 
+by [Cesar Garcia](https://github.com/Cesargarciajr)
+
 # THANK YOU!
 
 [Back to top](<#contents>)
