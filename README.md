@@ -6,6 +6,8 @@ Welcome,
 
 This website was developed to create a *Brazilian community* of new moms or pregnant women in Ireland, and was called **Bloom Of Life**. The aim of the project is **connect, inspire, and share** experiences. Provide shelter for those insecure mothers in a different country and away from family, and care for those who feel alone throughout the challenges of maternity.
 
+[link for Bloom Of Life}(https://cesargarciajr.github.io/bloom-of-life/#second-section)
+
 ![Alt text](assets/images/Responsive.png "wireframes")
 
 # Contents
@@ -65,7 +67,7 @@ This website was developed to create a *Brazilian community* of new moms or preg
 [Back to top](<#contents>)
 
   - ### Site Structure
-    The site structure consists of a **"one-page"** with a "sticky" menu to make navigation easier through the website. There are 3 different sections such as Landing, About Us, Our Community and Join Us, also includes a Footer for social media and easy links to connect and get to know more about the project.
+    The site structure consists of a **"one-page"** with a "sticky" menu to make navigation easier through the website. There are 3 different sections such as [Landing](<#landing-section>), [About Us](<#about-us-section>), [Our Community](<#our-community-section>) and [Join Us](<#join-us-section>), also includes a [Footer](<#footer>) for social media and easy links to connect and get to know more about the project.
 
 [Back to top](<#contents>)
 
@@ -139,8 +141,8 @@ This website was developed to create a *Brazilian community* of new moms or preg
 
 ## Testing
 - Tested in differents mobile devices and chrome web browser
-- Tested using the CCS validador (https://www.w3.org/)
-- Tested using the HTML validator (https://validator.w3.org/nu/)
+- Tested using the [CCS validador](https://www.w3.org/)
+- Tested using the [HTML validator](https://validator.w3.org/nu/)
 - Tested using the Lightroom dev tool from Google Chrome
 
 You can see the reports below as mentioned before:
@@ -193,21 +195,21 @@ ___
 
 ## Technologies Used
 I used the following technologies, platforms and support in building my project:
-- Wireframes and mockups were designed in Balsamiq (https://balsamiq.com/wireframes/desktop/#)
+- Wireframes and mockups were designed in [Balsamiq](https://balsamiq.com/wireframes/desktop/#)
 - The website is built with HTML and CSS only.
-- The Code Institute modules/lessons aided my learning and many of the concepts learned were applied in this project
-- GitHub was used for the project repository (https://github.com/Cesargarciajr/bloom-of-life)
-- Google Fonts was used for all fonts on the site (https://fonts.google.com/)
-- FontAwesome was used for the social media icons which then had additional styling applied to them (https://fontawesome.com/v4/)
-- Colors CO was used to create a colour pallete for this readme file (https://coolors.co/)
-- Adobe Colors and contrast was used to pick color and check if the contrast was good enough for users (https://color.adobe.com/pt/create/color-contrast-analyzer)
-- Also had to learn how to use Flexbox which plays a important role in positioning the sections and elements in the website which I learned from W3 Schools (https://www.w3schools.com/default.asp)
+- The [Code Institute](https://codeinstitute.net/) modules/lessons aided my learning and many of the concepts learned were applied in this project.
+- [GitHub](https://github.com/Cesargarciajr/bloom-of-life) was used for the project repository.
+- [Google Fonts](https://fonts.google.com/) was used for all fonts on the site.
+- [FontAwesome](https://fontawesome.com/) was used for the social media icons which then had additional styling applied to them.
+- [Colors CO](https://coolors.co/) was used to create a colour pallete for this readme file.
+- [Adobe Colors](https://color.adobe.com/pt/create/color-contrast-analyzer) and contrast was used to pick color and check if the contrast was good enough for users.
+- Also had to learn how to use Flexbox which plays a important role in positioning the sections and elements in the website which I learned from [W3 Schools](https://www.w3schools.com/default.asp)
 
 [Back to top](<#contents>)
 
 ## Deployment
 
-First of all you need to have a GitHub account, I choose Github because it's free and easy to create a repository to host your code and share with others.
+First of all you need to have a [GitHub](https://github.com/Cesargarciajr/bloom-of-life) account, I choose [GitHub](https://github.com/Cesargarciajr/bloom-of-life) because it's free and easy to create a repository to host your code and share with others.
 
 - To create a repository you just need to go to the main page at the top right you will see a "+" button just click here and then new repository
 
@@ -224,34 +226,35 @@ First of all you need to have a GitHub account, I choose Github because it's fre
 ## Credits
 
   ### Content  
-  - Code Institute  - HTML and CSS module content (https://codeinstitute.net/)
-  - GitHub - for deployment and host (https://github.com/)
-  - GitPod - for IDE and editor of the code (https://gitpod.io/)
-  - Rafael Allan - helped with insights and coding tips (https://www.linkedin.com/in/rafael-allan/)
-  - Carl Murray - helped with bugs fix and styling ideas (https://github.com/CarlMurray)
-  - Precious Ijege - Mentor helping with insights and coding fix (https://www.linkedin.com/in/precious-ijege-908a00168/)
-  - CSS Tricks - learn how to style better in CSS (https://css-tricks.com/)
-  - Jot Form - learn how to create and style forms in html (https://www.jotform.com/)
-  - HubSpot - learn how to use Google Maps API (https://blog.hubspot.com/website/how-to-embed-google-map-in-html)
-  - W3 Schools - used for multiples researches and tutorials in HTML and CSS (https://www.w3schools.com/)
-  - Color Hunt - used to select colors of the project (https://colorhunt.co/)
+  - [Code Institute](https://codeinstitute.net/)  - HTML and CSS module content
+  - [GitHub](https://github.com/) - for deployment and host.
+  - [GitPod](https://gitpod.io/) - for IDE and editor of the code.
+  - [Rafael Allan](https://www.linkedin.com/in/rafael-allan/) - helped with insights and coding tips.
+  - [Carl Murray](https://github.com/CarlMurray) - helped with bugs fix and styling ideas.
+  - [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) - Mentor helping with insights and coding fix.
+  - [CSS Tricks](https://css-tricks.com/) - learn how to style better in CSS.
+  - [Jot Form](https://www.jotform.com/) - learn how to create and style forms in html.
+  - [HubSpot](https://blog.hubspot.com/website/how-to-embed-google-map-in-html) - learn how to use Google Maps API.
+  - [W3 Schools](https://www.w3schools.com/) - used for multiples researches and tutorials in HTML and CSS.
+  - [Color Hunt](https://colorhunt.co/) - used to select colors of the project.
 
 [Back to top](<#contents>)
 
   ### Media
-- Pexel - for images and photos (https://www.pexels.com/)
-- iStock - for images and photos (https://www.istockphoto.com/)
-- TinyPNG - resizing images (https://tinypng.com/)
-- Adobe Color - used to check contrast between the colors picked for project (https://color.adobe.com/pt/create/color-contrast-analyzer)
-- Balsamiq - used for wireframes (https://balsamiq.com/wireframes/)
-- Font Awesome - used for icons (https://fontawesome.com/)
-- Google fonts - for fonts used in this project were found at (https://fonts.google.com/)
+- [Pexel](https://www.pexels.com/) - for images and photos.
+- [iStock](https://www.istockphoto.com/) - for images and photos.
+- [TinyPNG](https://tinypng.com/) - resizing images.
+- [Adobe Color](https://color.adobe.com/pt/create/color-contrast-analyzer) - used to check contrast between the colors picked for project.
+- [Colors CO](https://coolors.co/) was used to create a colour pallete for this readme file.
+- [Balsamiq](https://balsamiq.com/wireframes/) - used for wireframes.
+- [Font Awesome](https://fontawesome.com/) - used for icons.
+- [Google fonts](https://fonts.google.com/) - for fonts used in this project.
 
 [Back to top](<#contents>)
 
 ## Acknowledgments
 
-I'd to thank Code Institute for the opportunity of putting all the knowledge into practice. My mentor Precious Ijege and Alan Bushell, my cohort facilitator, for help with this project as well as extra people the helped me through my struggles and needs specially Rafael Allan and Carl Murray.
+I'd to thank Code Institute for the opportunity of putting all the knowledge into practice. My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) and Alan Bushell, my cohort facilitator, for help with this project as well as extra people the helped me through my struggles and needs specially [Rafael Allan](https://www.linkedin.com/in/rafael-allan/) and [Carl Murray](https://github.com/CarlMurray).
 
 # THANK YOU!
 
