@@ -76,7 +76,13 @@ This website was developed to create a *Brazilian community* of new moms or preg
     - #### Typography
         - The website uses three different fonts in a consistent distribution for better experience:
             1. Send Flowers or fallback cursive (https://fonts.google.com/)
+
+            ![Alt text](assets/images/send-flowers.png "Send Flowers font")
+
             2. Indie Flower or fallback cursive (https://fonts.google.com/
+
+            ![Alt text](assets/images/indie-flower.png "indie flower font")
+
             3. Sans- Serif or fallback Times New Roman
 
     - #### Color Scheme
